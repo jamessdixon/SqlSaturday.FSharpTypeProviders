@@ -1,0 +1,10 @@
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.VarianceCalculator.Tests\obj\Debug\ChickenSoftware.VarianceCalculator.Tests.csprojResolveAssemblyReference.cache
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.VarianceCalculator.Tests\bin\Debug\ChickenSoftware.VarianceCalculator.Tests.dll
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.VarianceCalculator.Tests\bin\Debug\ChickenSoftware.VarianceCalculator.Tests.pdb
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.VarianceCalculator.Tests\bin\Debug\Tff.VarianceCalculator.CS.dll
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.VarianceCalculator.Tests\bin\Debug\Tff.VarianceCalculator.FS.dll
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.VarianceCalculator.Tests\bin\Debug\Tff.VarianceCalculator.CS.pdb
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.VarianceCalculator.Tests\bin\Debug\Tff.VarianceCalculator.FS.pdb
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.VarianceCalculator.Tests\bin\Debug\Tff.VarianceCalculator.FS.xml
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.VarianceCalculator.Tests\obj\Debug\ChickenSoftware.VarianceCalculator.Tests.dll
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.VarianceCalculator.Tests\obj\Debug\ChickenSoftware.VarianceCalculator.Tests.pdb

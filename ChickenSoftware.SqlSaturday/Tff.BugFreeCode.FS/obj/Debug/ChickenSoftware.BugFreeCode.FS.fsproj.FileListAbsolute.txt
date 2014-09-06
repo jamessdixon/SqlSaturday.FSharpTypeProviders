@@ -1,0 +1,10 @@
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.BugFreeCode.FS\bin\Debug\Tff.BugFreeCode.FS.exe.config
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.BugFreeCode.FS\bin\Debug\Tff.BugFreeCode.FS.XML
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.BugFreeCode.FS\bin\Debug\Tff.BugFreeCode.FS.exe
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.BugFreeCode.FS\bin\Debug\Tff.BugFreeCode.FS.pdb
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.BugFreeCode.FS\bin\Debug\FSharp.Core.dll
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.BugFreeCode.FS\bin\Debug\Tff.BugFreeCode.CS.exe
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.BugFreeCode.FS\bin\Debug\Tff.BugFreeCode.CS.pdb
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.BugFreeCode.FS\bin\Debug\FSharp.Core.xml
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.BugFreeCode.FS\obj\Debug\Tff.BugFreeCode.FS.exe
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.BugFreeCode.FS\obj\Debug\Tff.BugFreeCode.FS.pdb

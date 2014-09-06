@@ -1,0 +1,8 @@
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.MongoDbProvider\bin\Debug\ChickenSoftware.MongoDbProvider.exe.config
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.MongoDbProvider\bin\Debug\ChickenSoftware.MongoDbProvider.XML
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.MongoDbProvider\bin\Debug\ChickenSoftware.MongoDbProvider.exe
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.MongoDbProvider\bin\Debug\ChickenSoftware.MongoDbProvider.pdb
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.MongoDbProvider\bin\Debug\FSharp.Core.dll
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.MongoDbProvider\bin\Debug\FSharp.Core.xml
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.MongoDbProvider\obj\Debug\ChickenSoftware.MongoDbProvider.exe
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.MongoDbProvider\obj\Debug\ChickenSoftware.MongoDbProvider.pdb

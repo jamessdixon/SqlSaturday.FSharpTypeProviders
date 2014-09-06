@@ -1,0 +1,5 @@
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.Ransom.CS\bin\Debug\Tff.Ransom.CS.dll
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.Ransom.CS\bin\Debug\Tff.Ransom.CS.pdb
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.Ransom.CS\obj\Debug\ChickenSoftware.Ransom.CS.csprojResolveAssemblyReference.cache
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.Ransom.CS\obj\Debug\Tff.Ransom.CS.dll
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.Ransom.CS\obj\Debug\Tff.Ransom.CS.pdb

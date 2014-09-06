@@ -1,0 +1,11 @@
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.CsvProvider\bin\Debug\ChickenSoftware.CsvProvider.exe.config
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.CsvProvider\bin\Debug\ChickenSoftware.CsvProvider.XML
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.CsvProvider\bin\Debug\ChickenSoftware.CsvProvider.exe
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.CsvProvider\bin\Debug\ChickenSoftware.CsvProvider.pdb
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.CsvProvider\bin\Debug\FSharp.Core.dll
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.CsvProvider\bin\Debug\FSharp.Data.dll
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.CsvProvider\bin\Debug\FSharp.Data.pdb
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.CsvProvider\bin\Debug\FSharp.Data.xml
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.CsvProvider\bin\Debug\FSharp.Core.xml
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.CsvProvider\obj\Debug\ChickenSoftware.CsvProvider.exe
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.CsvProvider\obj\Debug\ChickenSoftware.CsvProvider.pdb

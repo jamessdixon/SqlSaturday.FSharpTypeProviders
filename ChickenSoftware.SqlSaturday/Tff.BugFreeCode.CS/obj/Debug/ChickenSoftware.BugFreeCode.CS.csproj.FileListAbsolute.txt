@@ -1,0 +1,2 @@
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.BugFreeCode.CS\obj\Debug\Tff.BugFreeCode.CS.exe
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.BugFreeCode.CS\obj\Debug\Tff.BugFreeCode.CS.pdb

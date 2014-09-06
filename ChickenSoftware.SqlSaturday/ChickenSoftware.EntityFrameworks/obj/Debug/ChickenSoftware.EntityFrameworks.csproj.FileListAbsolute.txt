@@ -1,0 +1,10 @@
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.EntityFrameworks\bin\Debug\ChickenSoftware.EntityFrameworks.exe.config
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.EntityFrameworks\bin\Debug\ChickenSoftware.EntityFrameworks.exe
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.EntityFrameworks\bin\Debug\ChickenSoftware.EntityFrameworks.pdb
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.EntityFrameworks\bin\Debug\EntityFramework.dll
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.EntityFrameworks\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.EntityFrameworks\bin\Debug\EntityFramework.xml
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.EntityFrameworks\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.EntityFrameworks\obj\Debug\ChickenSoftware.EntityFrameworks.csprojResolveAssemblyReference.cache
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.EntityFrameworks\obj\Debug\ChickenSoftware.EntityFrameworks.exe
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.EntityFrameworks\obj\Debug\ChickenSoftware.EntityFrameworks.pdb

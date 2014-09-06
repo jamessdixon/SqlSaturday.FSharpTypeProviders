@@ -1,0 +1,7 @@
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.WinForms\bin\Debug\Tff.WinForms.XML
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.WinForms\bin\Debug\Tff.WinForms.dll
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.WinForms\bin\Debug\Tff.WinForms.pdb
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.WinForms\bin\Debug\FSharp.Core.dll
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.WinForms\bin\Debug\FSharp.Core.xml
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.WinForms\obj\Debug\Tff.WinForms.dll
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.WinForms\obj\Debug\Tff.WinForms.pdb

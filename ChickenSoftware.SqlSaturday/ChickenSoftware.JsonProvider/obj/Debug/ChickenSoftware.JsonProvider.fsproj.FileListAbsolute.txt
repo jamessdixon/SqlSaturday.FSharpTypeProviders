@@ -1,0 +1,11 @@
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.JsonProvider\bin\Debug\ChickenSoftware.JsonProvider.exe.config
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.JsonProvider\bin\Debug\ChickenSoftware.JsonProvider.XML
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.JsonProvider\bin\Debug\ChickenSoftware.JsonProvider.exe
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.JsonProvider\bin\Debug\ChickenSoftware.JsonProvider.pdb
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.JsonProvider\bin\Debug\FSharp.Core.dll
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.JsonProvider\bin\Debug\FSharp.Data.dll
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.JsonProvider\bin\Debug\FSharp.Data.pdb
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.JsonProvider\bin\Debug\FSharp.Data.xml
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.JsonProvider\bin\Debug\FSharp.Core.xml
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.JsonProvider\obj\Debug\ChickenSoftware.JsonProvider.exe
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.JsonProvider\obj\Debug\ChickenSoftware.JsonProvider.pdb

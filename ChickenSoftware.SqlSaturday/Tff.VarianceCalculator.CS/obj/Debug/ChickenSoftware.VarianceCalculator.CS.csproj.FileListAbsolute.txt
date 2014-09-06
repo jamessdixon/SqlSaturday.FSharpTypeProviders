@@ -1,0 +1,5 @@
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.VarianceCalculator.CS\bin\Debug\Tff.VarianceCalculator.CS.dll
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.VarianceCalculator.CS\bin\Debug\Tff.VarianceCalculator.CS.pdb
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.VarianceCalculator.CS\obj\Debug\ChickenSoftware.VarianceCalculator.CS.csprojResolveAssemblyReference.cache
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.VarianceCalculator.CS\obj\Debug\Tff.VarianceCalculator.CS.dll
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.VarianceCalculator.CS\obj\Debug\Tff.VarianceCalculator.CS.pdb

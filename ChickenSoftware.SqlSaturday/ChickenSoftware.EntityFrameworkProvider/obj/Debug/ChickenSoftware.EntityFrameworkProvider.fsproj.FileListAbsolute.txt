@@ -1,0 +1,9 @@
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.EntityFrameworkProvider\obj\Debug\ChickenSoftware.EntityFrameworkProvider.fsproj.ChickenSoftware.EntityFrameworkProvider.exe.config
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.EntityFrameworkProvider\bin\Debug\ChickenSoftware.EntityFrameworkProvider.exe.config
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.EntityFrameworkProvider\bin\Debug\ChickenSoftware.EntityFrameworkProvider.XML
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.EntityFrameworkProvider\bin\Debug\ChickenSoftware.EntityFrameworkProvider.exe
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.EntityFrameworkProvider\bin\Debug\ChickenSoftware.EntityFrameworkProvider.pdb
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.EntityFrameworkProvider\bin\Debug\FSharp.Core.dll
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.EntityFrameworkProvider\bin\Debug\FSharp.Core.xml
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.EntityFrameworkProvider\obj\Debug\ChickenSoftware.EntityFrameworkProvider.exe
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\ChickenSoftware.EntityFrameworkProvider\obj\Debug\ChickenSoftware.EntityFrameworkProvider.pdb

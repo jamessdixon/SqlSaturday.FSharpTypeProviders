@@ -1,0 +1,8 @@
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.NorthwindProvider\bin\Debug\Tff.NorthwindProvider.exe.config
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.NorthwindProvider\bin\Debug\Tff.NorthwindProvider.XML
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.NorthwindProvider\bin\Debug\Tff.NorthwindProvider.exe
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.NorthwindProvider\bin\Debug\Tff.NorthwindProvider.pdb
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.NorthwindProvider\bin\Debug\FSharp.Core.dll
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.NorthwindProvider\bin\Debug\FSharp.Core.xml
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.NorthwindProvider\obj\Debug\Tff.NorthwindProvider.exe
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.NorthwindProvider\obj\Debug\Tff.NorthwindProvider.pdb

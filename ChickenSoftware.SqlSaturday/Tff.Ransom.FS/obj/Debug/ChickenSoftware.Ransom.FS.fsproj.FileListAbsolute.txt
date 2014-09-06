@@ -1,0 +1,7 @@
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.Ransom.FS\bin\Debug\Tff.Ransom.FS.XML
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.Ransom.FS\bin\Debug\Tff.Ransom.FS.dll
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.Ransom.FS\bin\Debug\Tff.Ransom.FS.pdb
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.Ransom.FS\bin\Debug\FSharp.Core.dll
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.Ransom.FS\bin\Debug\FSharp.Core.xml
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.Ransom.FS\obj\Debug\Tff.Ransom.FS.dll
+C:\Users\jamie\Documents\Sql Saturday\ChickenSoftware.SqlSaturday\Tff.Ransom.FS\obj\Debug\Tff.Ransom.FS.pdb
